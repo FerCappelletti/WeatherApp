@@ -42,7 +42,6 @@ const Mapa = () => {
             },
         });
     };
-    console.log(state.name);
 
     return (
         <div className="container">

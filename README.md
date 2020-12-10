@@ -1,3 +1,18 @@
+# Weather app con React, React-Leaflet y Axios
+
+El objetivo es mostrar una ciudad de manera random en un mapa junto con sus datos del tiempo:
+*Temperatura máxima
+*Temperatura mínima
+*Presión en hPa
+*Humedad
+La aplicación consume la API : https://github.com/FerCappelletti/api-weather
+
+Para llegar a la conclusión de cuál libreria de geolocalización utilizar, me sirvió de guía el siguiente artículo:
+https://mappinggis.com/2015/03/las-mejores-apis-javascript-para-webmapping/
+
+Documentación a la librería:
+https://react-leaflet.js.org/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
