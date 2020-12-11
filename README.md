@@ -13,7 +13,6 @@ https://mappinggis.com/2015/03/las-mejores-apis-javascript-para-webmapping/
 Documentación a la librería:
 https://react-leaflet.js.org/src/assets/
 
-https://raw.FerCappelletti.com/WeatherApp/master/src/assets/Captura.PNG
 
 # Getting Started with Create React App
 
